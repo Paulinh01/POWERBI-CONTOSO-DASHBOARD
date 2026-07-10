@@ -128,38 +128,6 @@ O objetivo é transformar dados brutos em informações estratégicas para apoia
 
 ---
 
-# 📷 Dashboard
-
-## Visão Geral
-
-<p align="center">
-
-<img src="Imagens/VisaoGeral.png" width="900">
-
-</p>
-
----
-
-## Performance das Lojas
-
-<p align="center">
-
-<img src="Imagens/Lojas.png" width="900">
-
-</p>
-
----
-
-## Performance dos Produtos
-
-<p align="center">
-
-<img src="Imagens/Produtos.png" width="900">
-
-</p>
-
----
-
 # 💡 Insights Obtidos
 
 - Continentes mais lucrativos
