@@ -53,19 +53,19 @@ POWERBI-CONTOSO-DASHBOARD/
 ## 📊 Dashboards
 
 ### Visão Geral
-![Visão Geral](https://raw.githubusercontent.com/Paulinho01/POWERBI-CONTOSO-DASHBOARD/main/DASHBOARD/1-VisaoGeral.png)
+![Visão Geral](DASHBOARD/1-VisaoGeral.png)
 > Receita, Custo e Lucro por Continent, País e Marca ao longo dos anos.
 
 ---
 
 ### Performance das Lojas
-![Performance Lojas](https://raw.githubusercontent.com/Paulinho01/POWERBI-CONTOSO-DASHBOARD/main/DASHBOARD/2-PerformanceLojas.png)
+![Performance Lojas](DASHBOARD/2-PerformanceLojas.png)
 > Ranking de lojas, Ticket Médio, Receita por Tipo e por Continente.
 
 ---
 
 ### Performance de Produtos
-![Performance Produtos](https://raw.githubusercontent.com/Paulinho01/POWERBI-CONTOSO-DASHBOARD/main/DASHBOARD/3-PerformanceProdutos.png)
+![Performance Produtos](DASHBOARD/3-PerformanceProdutos.png)
 > Ranking de produtos, Receita por Classe, Marca e Classificação de Cores.
 
 ---
