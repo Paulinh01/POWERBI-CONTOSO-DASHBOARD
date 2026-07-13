@@ -53,7 +53,7 @@ POWERBI-CONTOSO-DASHBOARD/
 ## 📊 Dashboards
 
 ### Visão Geral
-![Visão Geral](https://raw.githubusercontent.com/Paulinho01/POWERBI-CONTOSO-DASHBOARD/main/DASHBOARD/1-Vis%C3%A3oGeral.png)
+![Visão Geral](https://raw.githubusercontent.com/Paulinho01/POWERBI-CONTOSO-DASHBOARD/main/DASHBOARD/1-VisaoGeral.png)
 > Receita, Custo e Lucro por Continent, País e Marca ao longo dos anos.
 
 ---
